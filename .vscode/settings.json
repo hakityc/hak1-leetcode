@@ -1,0 +1,14 @@
+{
+  /* coderunner配置 */
+  "code-runner.executorMap": {
+    "typescript": "npx ts-node --project ../tsconfig.json"
+  },
+  "code-runner.runInTerminal": true,
+  "code-runner.saveFileBeforeRun": true,
+  "cSpell.words": [
+    "datastructures",
+    "lcpr",
+    "nums",
+    "toolbelt"
+]
+}
